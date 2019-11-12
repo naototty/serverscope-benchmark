@@ -12,6 +12,10 @@ Install
 Alternatively, go to [serverscope.io](https://serverscope.io/) and
 generate a command line that will install all dependencies and run it.
 
+
+  * required : python2.7 or lator
+  
+
 Run
 ---
 
